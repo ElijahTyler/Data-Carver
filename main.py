@@ -106,6 +106,5 @@ if __name__ == "__main__":
     # urls = [url1, url2, url3, url4, ...]
     # main(urls)
 
-    url1 = r"https://www.cars.com/shopping/results/?list_price_max=&makes%5B%5D=&maximum_distance=20&models%5B%5D=&page=1&page_size=100&stock_type=cpo&zip=48377"
-    urls = [url1]
+    urls = []
     main(urls)
