@@ -2,8 +2,6 @@
 
 Let's say you want to search cars.com for cars around you, and want to compile all of the data. This is the function that Data Carver fits to serve. Data Carver will scrape all of the car listings from any cars.com search URL you give it. In addition, you have the option of generating a .csv file from the given data.
 
-NOTE: Only tested on Linux Mint, Windows version under development
-
 ## Installation
 
 0. Ensure you have Firefox installed to the default location
